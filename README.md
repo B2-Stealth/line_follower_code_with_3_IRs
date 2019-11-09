@@ -11,5 +11,5 @@ To simulate a turn, the rpm of one wheel is greater than that of the other.
 To simulate an aggressive turn for sharp corners, the inner wheel rotates counter to the outer wheel.
 Whereas normally, it is suffcient to ave it stationary.
 
-NOTE-the rpm is set by using a tuple of 2 ints between 0 to 255, ad must be set through extensive testing, for
+NOTE-the rpm is set by using a tuple of 2 ints between 0 to 255, and must be set through extensive testing, for
      the best results.
