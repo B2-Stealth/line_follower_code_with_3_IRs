@@ -1,11 +1,12 @@
-# line_follower_code_with_3_IRs
-Using Arduino Uno board, L239d motor driver, 3 IR sensors, jumper wires, and batteries
+# line follower code with 3 IRs
 
-Arduino provides easy to use interfaces for complex electronic circuitry which makes it easier for a newbie to begin
+## Parts Used
+Arduino Uno board, L239d motor driver, 3 IR sensors, jumper wires, and batteries
+
+Arduino provides easy-to-use interfaces for complex electronic circuitry which makes it easier for a newbie to begin.
 
 The basic principle behind the working of the line follower is that black is perfectly absorbent whereas any other color 
-reflects upto some extent.
-So when the IR sensor is pointing towards a black material, it receives no returning signal, and the code is written to give 
+reflects upto some extent. So when the IR sensor is pointing towards a black material, it receives no returning signal, and the code is written to give 
 appropriate responses
 To simulate a turn, the rpm of one wheel is greater than that of the other.
 To simulate an aggressive turn for sharp corners, the inner wheel rotates counter to the outer wheel.
