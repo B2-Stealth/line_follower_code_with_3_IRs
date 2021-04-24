@@ -1,8 +1,9 @@
-# line follower code with 3 IRs
+# Simple line follower code with 3 IRs
 
 ## Parts Used
 Arduino Uno board, L239d motor driver, 3 IR sensors, jumper wires, and batteries
 
+## Concepts
 Arduino provides easy-to-use interfaces for complex electronic circuitry which makes it easier for a newbie to begin.
 
 The basic principle behind the working of the line follower is that black is perfectly absorbent whereas any other color 
