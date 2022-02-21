@@ -1,4 +1,4 @@
-# Simple line follower code with 3 IRs
+# Line Follower
 
 ## Parts Used
 Arduino Uno board, L239d motor driver, 3 IR sensors, jumper wires, and batteries
